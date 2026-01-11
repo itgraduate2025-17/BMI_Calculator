@@ -85,7 +85,7 @@ pip install matplotlib
 3. Run the application:
 
 ```
-python bmi_calculator.py
+python app.py
 ```
 
 ---
